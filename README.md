@@ -1,5 +1,5 @@
 # Projects
 Data Science Projects
 Following are the projects in the repository:
-a. Iris flower - CLassification Problem
-b. Boston Housing Predictive Modelling - Regression Problem
+<br>a. Iris flower - CLassification Problem
+<br>b. Boston Housing Predictive Modelling - Regression Problem
